@@ -39,7 +39,6 @@
 
 ## About The Project
 
-[![image](https://github.com/vanumdaniel7/car-rental-system-source-code/assets/98738744/d2ad22c4-a95e-4690-a4dc-d2b4f990342d)](https://car-rental-system-g6bb.onrender.com/)
 
 Car Rental System is a full-stack web application designed to streamline the process of managing car rental services. It provides an intuitive platform for both users and administrators to browse available vehicles, make reservations, manage bookings, and handle administrative tasks efficiently.
 
@@ -78,7 +77,7 @@ Features:
 
 2. **Clone the Repository**:
    ```sh
-   git clone https://github.com/vanumdaniel7/car-rental-system-source-code.git
+   git clone https://github.com/ALRlasya/CarRental.git
    ```
 3. Navigate to both the client and server folders and run:
    ```sh
