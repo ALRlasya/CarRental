@@ -29,11 +29,10 @@
 
 ### User Page URLs
 * https://car-rental-system-g6bb.onrender.com/
-* https://silly-lime-crane.cyclic.app/
+
 
 ### Admin Page URLs
 * https://car-rental-system-g6bb.onrender.com/admin
-* https://silly-lime-crane.cyclic.app/admin
 
 
 
